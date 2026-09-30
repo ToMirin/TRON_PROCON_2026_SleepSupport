@@ -4,7 +4,7 @@ The MIT License below applies to the original portions of this project contribut
 
 # MIT License
 
-Copyright (c) 2026 GOU
+Copyright (c) 2026 JORDEMB
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

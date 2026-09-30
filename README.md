@@ -79,3 +79,13 @@ flowchart LR
 μT-Kernel 3.0 BSP2、STM32 HAL、CMSIS-DSP、ST Edge AI、FatFsを利用しています。各コンポーネントの著作権・利用条件は、それぞれの配布物に従います。
 
 学習にはESC-50、Coswara、AudioSet Strongを使用しています。音声とアノテーションの利用条件は同一ではありません。出典と本プロジェクトでの加工内容は[学習データセット](docs/datasets.md)に記載しています。
+
+
+## 開発メンバー
+
+本プロジェクトは、以下のメンバーによる共同開発です。
+
+| メンバー | 主な担当 |
+|---|---|
+| https://github.com/ToMirin | AI・音声処理 |
+| https://github.com/Hiroaki-SONODA | システム設計・回路 |
