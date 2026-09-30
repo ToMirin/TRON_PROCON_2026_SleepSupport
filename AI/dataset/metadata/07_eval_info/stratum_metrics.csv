@@ -1,0 +1,6 @@
+source_dataset,class_name,samples,correct,accuracy
+AudioSet Strong,SNORE,160,145,0.90625
+Coswara,COUGH,762,743,0.9750656167979003
+ESC-50,COUGH,6,6,1.0
+ESC-50,OTHER,228,204,0.8947368421052632
+ESC-50,SNORE,6,6,1.0

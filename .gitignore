@@ -1,0 +1,27 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# Build artifacts
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# macOS
+.DS_Store
+
+# VSCode local settings
+.vscode/
+
+# Eclipse / CubeIDE workspace metadata
+.metadata/
+
+# Python virtual environment
+.venv/
+
+# launch files
+*.launch

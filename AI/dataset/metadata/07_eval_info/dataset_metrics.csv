@@ -1,0 +1,4 @@
+source_dataset,samples,correct,accuracy
+AudioSet Strong,160,145,0.90625
+Coswara,762,743,0.9750656167979003
+ESC-50,240,216,0.9
